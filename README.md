@@ -68,9 +68,9 @@ To revolutionize the rental property industry by creating a trustless, transpare
 2. Property owners can register properties using `registerProperty()`
 3. Tenants can create rental agreements with `createRentalAgreement()`
 4. Manage property availability with `updatePropertyAvailability()`
-
-   Contract Address: 0xD94f465cc5F82d7A5Ea886e048CaF8bf1f76B884
-6. Process security deposit returns with `returnSecurityDeposit()`
+5. Process security deposit returns with `returnSecurityDeposit()`
 
 ## License
 MIT License - Open source and available for community contributions
+
+Contract Address: 0xD94f465cc5F82d7A5Ea886e048CaF8bf1f76B884
